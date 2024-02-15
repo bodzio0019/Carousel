@@ -8,5 +8,10 @@ export const games = [
         img: "Witcher",
         name: "Witcher 3",
         content: "You are Geralt, from the city of Rivia. All around you the towns and settlements of the Northern Kingdoms are being razed to the ground, as an otherworldly invading army known only as the Wild Hunt leaves a trail of blood-soaked destruction in its wake."
+    },
+    {
+        img: "God",
+        name: "God of War",
+        content: "Living as a man outside the shadow of the gods, Kratos must adapt to unfamiliar lands, unexpected threats and a second chance at being a father. Together with his son Atreus, the pair will venture into the brutal realm of Midgard and fight to fulfil a deeply personal quest."
     }
 ]
